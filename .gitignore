@@ -33,3 +33,5 @@ blockcerts testnet bitcoin address.txt
 docs/_build/*
 site/*
 priv*.txt
+
+*.key
